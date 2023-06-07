@@ -1,0 +1,7 @@
+com\gettingstarted\tasks\AddToCartAnItem.class
+com\gettingstarted\tests\NavigateJupiterToysTest.class
+com\gettingstarted\ui\TheJupiterToysHomePage.class
+com\gettingstarted\tasks\OpenTheJupiterToys.class
+com\gettingstarted\ui\TheContactPage.class
+com\gettingstarted\ui\TheShopPage.class
+com\gettingstarted\ui\TheCartPage.class
