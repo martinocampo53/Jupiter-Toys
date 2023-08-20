@@ -1,7 +1,10 @@
+com\sproutsdetchallenge\tasks\OpenTheSproutDemoSite.class
+com\sproutsdetchallenge\tests\SdetChallengeTest.class
 com\gettingstarted\tasks\AddToCartAnItem.class
 com\gettingstarted\tests\NavigateJupiterToysTest.class
 com\gettingstarted\ui\TheJupiterToysHomePage.class
 com\gettingstarted\tasks\OpenTheJupiterToys.class
+com\sproutsdetchallenge\ui\TheSproutDemoSiteHomePage.class
 com\gettingstarted\ui\TheContactPage.class
 com\gettingstarted\ui\TheShopPage.class
 com\gettingstarted\ui\TheCartPage.class
